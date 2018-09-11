@@ -1,0 +1,249 @@
+﻿800001	Setup/NN Wizard/NP
+800002	OK/JJ
+800003	Menu/NN
+800004	Time/NN Format/NN
+800005	Go/VBP to/TO next/JJ step/NN
+800006	Daylight/NN Saving/NN Time/NN
+800007	Please/RB select/VBP your/PP$ prefered/JJ language/NN
+800008	Select/VBP the/DT time/NN zone/NN and/CC Daylight/NN saving/JJ time/NN
+800009	Select/VBP the/DT antenna/NN type/NN then/RB auto/NN scan/NN
+800010	Picture/NN
+800011	Picture/NN Mode/NN
+800012	Standard/JJ
+800013	Dynamic/JJ
+800014	Soft/JJ
+800015	User/NN
+800016	Contrast/NN
+800017	Brightness/NN
+800018	Color/NN Saturation/NN
+800019	Sharpness/NN
+800020	Hue/NN
+800021	Backlight/NN
+800022	Auto/NN Backlight/NN
+800023	Color/NN Temp/NN
+800024	Cool/JJ
+800025	Warm/JJ
+800026	Zoom/NN Mode/NN
+800027	Full/JJ
+800028	Auto/NN
+800029	Nolinear/NN
+800030	Subtitle/NN
+800031	Character/NN
+800032	Movie/NN
+800033	Zoom/NN one/CD
+800034	Noise/NN Reduction/NN
+800035	Low/JJ
+800036	Middle/JJ
+800037	High/JJ
+800038	Off/RB
+800039	Sound/NN Mode/NN
+800040	Music/NN
+800041	Sports/NNS
+800042	News/NN
+800043	Bass/NN
+800044	Treble/NN
+800045	Surround/JJ Sound/NN
+800046	Bass/NN Enhance/NN
+800047	Treble/NN Enhance/NN
+800048	DBX/NP Switch/NN
+800049	Total/JJ Sonics/NN
+800050	Total/JJ Volume/NN
+800051	Night/NN
+800052	Total/JJ Surround/NN
+800053	Auto/NN Volume/NN
+800054	Spdif/NN Type/NN
+800055	Raw/NN
+800056	Hang/NN Mode/NN
+800057	Desk/NN
+800058	Wall/NN
+800059	Audio/NN Language/NN
+800060	Channel/NP
+800061	Signal/NN Type/NN
+800062	Air/NN
+800063	Cable/NN
+800064	Auto/NN Tuning/NN
+800065	Input/NN Source/NN
+800066	Search/VB
+800067	Found/VBN
+800068	Are/VBP you/PP sure/JJ to/TO stop/VB auto/NN tuning/NN ?
+800069	Yes/RB
+800070	Cancel/VB
+800071	Search/NN finished/VBD !
+800072	No/RB Signal/NN
+800073	ATV/NP Manual/JJ Tuning/NN
+800074	Manual/JJ Tuning/NN
+800075	Current/JJ CH/NP
+800076	Color/NN System/NN
+800077	Sound/NN System/NN
+800078	Fine-Tuning/NN
+800079	Program/NN Edit/NN
+800080	Delete/VB
+800081	Skip/VB
+800082	Rename/NN
+800083	Move/VB
+800084	Back/RB
+800085	Enter/VB
+800086	Exit/NN
+800087	Favorite/JJ Edit/NN
+800088	Favorite/JJ
+800089	DTV/NP Signal/NN
+800090	Setup/NN
+800091	OSD/NN Language/NN
+800092	TTX/NP Language/NN
+800093	West/NN
+800094	Blue/JJ Screen/NN
+800095	One/CD Touch/NN Play/NN
+800096	Routing/NN Control/NN
+800097	System/NN Standby/NN
+800098	Device/NN List/NN
+800099	Output/NN Mode/NN
+800100	Advanced/VBN VGA/NP 
+800101	Auto/JJ Adjust/NN
+800102	Are/VBP you/PP sure/JJ to/TO auto/JJ adjust/NN ?
+800103	Phase/NN ( zero/CD to/TO sixty-three/CD )
+800104	Clock/NN Phase/NN
+800105	Closed/VBN Caption/NN
+800106	CC/NN Mode/NN
+800107	CC/NN On/IN
+800108	CC/NN Off/IN
+800109	CC/NN On/IN Mute/NN
+800110	Basic/JJ Selection/NN
+800111	Advanced/VBN Selection/NN
+800112	Option/NN
+800113	Mode/NN
+800114	Default/NN
+800115	Custom/NN
+800116	Font/NN Style/NN
+800117	Font/NN zero/CD
+800118	Font/NN one/CD
+800119	Font/NN two/CD
+800120	Font/NN three/CD
+800121	Font/NN four/CD
+800122	Font/NN five/CD
+800123	Font/NN six/CD
+800124	Font/NN seven/CD
+800125	Font/JJ Size/NN
+800126	Small/JJ
+800127	Large/JJ
+800128	Font/NN Edge/NN Style/NN
+800129	None/NN
+800130	Raised/VBN
+800131	Depressed/VBN
+800132	Uniform/JJ
+800133	Leftshadow/NN
+800134	Rightshadow/NN
+800135	Font/NN Edge/NN Color/NN
+800136	Black/NN
+800137	Red/NN
+800138	Green/NN
+800139	Blue/NN
+800140	Yellow/NN
+800141	Cyan/NN
+800142	FG/NN Color/NN
+800143	BG/NN Color/NN
+800144	FG/NN Opacity/NN
+800145	Solid/JJ
+800146	Flashing/NN
+800147	Translucent/NN
+800148	Transparent/JJ
+800149	BG/NN Opacity/NN
+800150	TTS/NN Speed/NN
+800151	TTS/NN Tune/NN
+800152	Transparency/NN
+800153	Restore/NN
+800154	Are/VBP you/PP sure/JJ to/TO Restore/VB ?
+800155	Restore/VB success/RB ! Are/VBP you/PP sure/JJ to/TO restart/VB ?
+800156	PVR/NP file/NN system/NN
+800157	Always/NP Timeshift/NN
+800158	Are/VBP you/PP sure/JJ to/TO Format/VB ?
+800159	Language/NN
+800160	Time/NN
+800161	Clock/NN
+800162	Year/NN
+800163	Month/NN
+800164	Date/NN
+800165	Hour/NN
+800166	Minute/NN
+800167	Daylight/NN
+800168	Time/NN Zone/NN
+800169	Atlantic/NP
+800170	Eastern/JJ
+800171	Central/JJ
+800172	Mountain/NN
+800173	Pacific/NP
+800174	Hawaii/NP
+800175	Newfoundland/NN
+800176	Sleep/NN Timer/NN
+800177	Wake/VB Up/RP
+800178	Lock/VB
+800179	Enter/VBP Password/NN
+800180	Wrong/JJ password/NN , input/VBP again/RB !
+800181	Change/VBP Password/NN
+800182	Old/JJ Password/NN
+800183	New/JJ Password/NN
+800184	Repeat/VBP Password/NN
+800185	Password/NN is/VBZ not/RB match/JJ !
+800186	System/NN Lock/NN
+800187	Input/NN Source/NN Lock/NN
+800188	Block/NN
+800189	Unblock/NN
+800190	TV/NN Rating/NN
+800191	All/DT
+800192	Canada/NP
+800193	Canada/NP English/NP
+800194	Canada/NP French/NP
+800195	RRT/NP Setting/NN
+800196	User/NN Setting/NN
+800197	Reset/VBP RRT/NP
+800198	Are/VBP you/PP sure/JJ to/TO reset/VB RRT/NP ?
+800199	Channel/NN Lock/NN
+800200	Clear/VBP Lock/NN
+800201	Are/VBP you/PP sure/JJ to/TO clear/JJ locks/NNS ?
+800202	Please/RB input/VBP password/NN
+800203	No/RB Rated/VBN
+800204	Success/NN
+800205	Color/NN Strenth/NN
+800206	Program/NN Guide/NN
+800207	Info/NN
+800208	Channel/NN List/NN
+800209	Channel/NN Number/NN :
+800210	Channel/NN Name/NN :
+800211	Demo/NN
+800212	Second/JJ
+800213	Today/NN
+800214	Automatic/JJ Power/NN Up/IN
+800215	Set/VBP Power/NN Up/RP Time/NN
+800216	Close/VBP after/IN five/CD seconds/NNS
+800217	Are/VBP you/PP sure/JJ to/TO Clear/JJ Clock/NN ?
+800218	Twelve-hour/NN
+800219	Set/VB Time/NN
+800220	Video/NN
+800221	Photo/NN
+800222	Text/NN
+800223	No/DT Device/NN
+800224	Files/NNS :
+800225	Page/NN up/RP or/CC down/RB
+800226	Media/NN one/CD
+800227	Audiotrack/NN
+800228	Program/NN
+800229	Size/NN
+800230	Record/NN
+800231	Title/NN
+800232	Bitrate/NN
+800233	Artist/NN
+800234	Samplerate/NN
+800235	Close/VBP
+800236	Slide/VB
+800237	Blocks/NNS
+800238	Diagonalblocks/NNS
+800239	Wipe/VBP
+800240	Fade/JJ
+800241	Random/JJ
+800242	Input/VBP search/NN time/NN :
+800243	Save/VBP
+800244	Return/VBP
+800245	Select/VBP Disk/NN
+800246	Twenty-four/CD hour/NN
+800247	Are/VBP you/PP sure/JJ to/TO start/VB auto/NN tuning/NN ?
+800248	Copy/VBP
+800249	Paste/VBP

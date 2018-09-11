@@ -1,0 +1,249 @@
+﻿800001	Setup Wizard%
+800002	OK%
+800003	Menu%
+800004	Time Format%
+800005	Go to next step%
+800006	Daylight Saving Time%
+800007	Please select- your prefered language%
+800008	Select the time zone/and Daylight saving time%
+800009	Select the antenna type%then auto scan%
+800010	Picture%
+800011	Picture Mode%
+800012	Standard%
+800013	Dynamic%
+800014	Soft%
+800015	User%
+800016	Contrast%
+800017	Brightness%
+800018	Color Saturation%
+800019	Sharpness%
+800020	Hue%
+800021	Backlight%
+800022	Auto Backlight%
+800023	Color Temp%
+800024	Cool%
+800025	Warm%
+800026	Zoom Mode%
+800027	Full%
+800028	Auto%
+800029	Nolinear%
+800030	Subtitle%
+800031	Character%
+800032	Movie%
+800033	Zoom one%
+800034	Noise Reduction%
+800035	Low%
+800036	Middle%
+800037	High%
+800038	Off%
+800039	Sound Mode%
+800040	Music%
+800041	Sports%
+800042	News%
+800043	Bass%
+800044	Treble%
+800045	Surround Sound%
+800046	Bass Enhance%
+800047	Treble Enhance%
+800048	DBX Switch%
+800049	Total Sonics%
+800050	Total Volume%
+800051	Night%
+800052	Total Surround%
+800053	Auto Volume%
+800054	Spdif Type%
+800055	Raw%
+800056	Hang Mode%
+800057	Desk%
+800058	Wall%
+800059	Audio Language%
+800060	Channel%
+800061	Signal Type%
+800062	Air%
+800063	Cable%
+800064	Auto Tuning%
+800065	Input Source%
+800066	Search%
+800067	Found%
+800068	Are you sure to stop%auto tuning%?
+800069	Yes%
+800070	Cancel%
+800071	Search finished%!
+800072	No Signal%
+800073	ATV%Manual Tuning%
+800074	Manual Tuning%
+800075	Current%CH%
+800076	Color System%
+800077	Sound System%
+800078	Fine-Tuning%
+800079	Program Edit%
+800080	Delete%
+800081	Skip%
+800082	Rename%
+800083	Move%
+800084	Back%
+800085	Enter%
+800086	Exit%
+800087	Favorite Edit%
+800088	Favorite%
+800089	DTV Signal%
+800090	Setup%
+800091	OSD Language%
+800092	TTX Language%
+800093	West%
+800094	Blue Screen%
+800095	One Touch Play%
+800096	Routing Control%
+800097	System Standby%
+800098	Device List%
+800099	Output Mode%
+800100	Advanced%VGA%
+800101	Auto Adjust%
+800102	Are you sure%to auto adjust%?
+800103	Phase%(zero to sixty-three%)
+800104	Clock Phase%
+800105	Closed Caption%
+800106	CC Mode%
+800107	CC On%
+800108	CC Off%
+800109	CC On Mute%
+800110	Basic Selection%
+800111	Advanced%Selection%
+800112	Option%
+800113	Mode%
+800114	Default%
+800115	Custom%
+800116	Font Style%
+800117	Font%zero%
+800118	Font%one%
+800119	Font%two%
+800120	Font%three%
+800121	Font%four%
+800122	Font%five%
+800123	Font%six%
+800124	Font%seven%
+800125	Font%Size%
+800126	Small%
+800127	Large%
+800128	Font Edge%Style%
+800129	None%
+800130	Raised%
+800131	Depressed%
+800132	Uniform%
+800133	Leftshadow%
+800134	Rightshadow%
+800135	Font%Edge Color%
+800136	Black%
+800137	Red%
+800138	Green%
+800139	Blue%
+800140	Yellow%
+800141	Cyan%
+800142	FG Color%
+800143	BG Color%
+800144	FG Opacity%
+800145	Solid%
+800146	Flashing%
+800147	Translucent%
+800148	Transparent%
+800149	BG Opacity%
+800150	TTS Speed%
+800151	TTS Tune%
+800152	Transparency%
+800153	Restore%
+800154	Are you sure to Restore%?
+800155	Restore success%! Are you sure%to restart%?
+800156	PVR file system%
+800157	Always Timeshift%
+800158	Are you sure to Format%?
+800159	Language%
+800160	Time%
+800161	Clock%
+800162	Year%
+800163	Month%
+800164	Date%
+800165	Hour%
+800166	Minute%
+800167	Daylight%
+800168	Time Zone%
+800169	Atlantic%
+800170	Eastern%
+800171	Central%
+800172	Mountain%
+800173	Pacific%
+800174	Hawaii%
+800175	Newfoundland%
+800176	Sleep Timer%
+800177	Wake- Up%
+800178	Lock%
+800179	Enter Password%
+800180	Wrong password%, input again%!
+800181	Change Password%
+800182	Old Password%
+800183	New Password%
+800184	Repeat%Password%
+800185	Password is not match%!
+800186	System Lock%
+800187	Input Source Lock%
+800188	Block%
+800189	Unblock%
+800190	TV Rating%
+800191	All%
+800192	Canada%
+800193	Canada English%
+800194	Canada French%
+800195	RRT Setting%
+800196	User Setting%
+800197	Reset RRT%
+800198	Are you sure/to reset RRT%?
+800199	Channel Lock%
+800200	Clear Lock%
+800201	Are you sure/to clear locks%?
+800202	Please input password%
+800203	No%Rated%
+800204	Success%
+800205	Color Strenth%
+800206	Program Guide%
+800207	Info%
+800208	Channel List%
+800209	Channel%Number%:
+800210	Channel Name%:
+800211	Demo%
+800212	Second%
+800213	Today%
+800214	Automatic Power Up%
+800215	Set Power Up Time%
+800216	Close after five seconds%
+800217	Are you sure/to Clear Clock%?
+800218	Twelve-hour%
+800219	Set Time%
+800220	Video%
+800221	Photo%
+800222	Text%
+800223	No Device%
+800224	Files%:
+800225	Page up or down%
+800226	Media one%
+800227	Audiotrack%
+800228	Program%
+800229	Size%
+800230	Record%
+800231	Title%
+800232	Bitrate%
+800233	Artist%
+800234	Samplerate%
+800235	Close%
+800236	Slide%
+800237	Blocks%
+800238	Diagonalblocks%
+800239	Wipe%
+800240	Fade%
+800241	Random%
+800242	Input search time%:
+800243	Save%
+800244	Return%
+800245	Select Disk%
+800246	Twenty-four hour%
+800247	Are you sure to start%auto tuning%?
+800248	Copy%
+800249	Paste%

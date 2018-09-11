@@ -1,0 +1,15 @@
+﻿070001	Polyurethane/NN ?
+070002	A/DT Big/JJ Blue/JJ turnaround/NN ?
+070003	Combat/NN pay/NN ?
+070004	Any/DT idea/NN ?
+070005	The/DT unexpected/JJ ?
+070006	Or/CC an/DT Android/JJ watch/NN ?
+070007	Install/VBP a/DT new/JJ program/NN ?
+070008	Want/VBP a/DT keyboard/NN ?
+070009	Sophisticated/JJ casual/JJ ?
+070010	Superb/NP delivery/NN ?
+070011	What/WP is/VBZ the/DT alternative/NN ?
+070012	Going/VBG out/RP of/RP business/NN ?
+070013	Think/VBP I/PP 'm/VBP exaggerating/JJ ?
+070014	Was/VBD Alhambra/NP a/DT motif/NN ?
+070015	Other/JJ considerations/NNS ?
