@@ -1,0 +1,100 @@
+﻿080001	Are/VBP there/RB any/DT tips/NNS you/PP can/MD give/VB me/PP to/TO keep/VB it/PP moister/JJ ?
+080002	Does/VBZ Chad/NP do/VB needlepoint/NN , too/RB ?
+080003	Did/VBD the/DT restaurant/NN have/VB any/DT connection/NN with/IN the/DT mob/NN ?
+080004	Have/VBP you/PP noticed/VBN the/DT increase/NN in/IN criminals/NNS , gangs/NNS , even/RB parolees/NN ?
+080005	Do/VBP I/PP hear/VB the/DT distant/JJ rumble/NN of/IN a/DT lawsuit/NN ?
+080006	Do/VBP they/PP need/VB to/TO stay/VB on/IN the/DT sidewalks/NN ?
+080007	Is/VBZ the/DT program/NN already/RB in/IN effect/NN ?
+080008	Can/MD we/PP ask/VB if/IN it/PP might/MD be/VB time/NN to/TO say/VB goodbye/NN ?
+080009	Did/VBD you/PP have/VB any/DT hallucinations/NNS ?
+080010	Was/VBD this/DT , Seventh/NP Avenue/NP , home/NN ?
+080011	Did/VBD Chavez/NP have/VB a/DT Christ/NP complex/JJ ?
+080012	Do/VBP most/JJS women/NNS deserve/VB to/TO be/VB pampered/VBN occasionally/RB ?
+080013	Am/VBP I/NP not/RB qualified/VBN to/TO leave/VB this/DT country/NN and/CC have/VB a/DT decent/JJ life/NN abroad/RB ?
+080014	Is/VBZ there/RB a/DT team/NN enjoying/VBG a/DT good/JJ season/NN , but/CC not/RB getting/VBG enough/JJ coverage/NN ?
+080015	Is/VBZ it/PP just/RB going/VBG to/TO be/VB his/PP$ toy/NN ?
+080016	Did/VBD I/PP want/VB to/TO examine/VB the/DT contents/NNS of/IN the/DT vacuum/NN ?
+080017	Would/MD Montana/NP Bob/NP do/VB as/IN he/PP said/VBD ?
+080018	Do/VBP I/PP bring/VB it/PP in/IN my/PP$ suitcase/NN ?
+080019	Are/VBP you/PP really/RB so/RB arrogant/JJ as/RB to/TO believe/VB we/PP are/VBP alone/RB in/IN this/DT universe/NN ?
+080020	Did/VBD you/PP say/VB today/NN is/VBZ the/DT second/JJ anniversary/NN of/IN the/DT suicide/NN bomb/NN attack/NN ?
+080021	Is/VBZ Khmer/NP Rouge/NP still/RB around/RB ?
+080022	Will/MD the/DT replacements/NNS have/VB a/DT fear/NN of/IN making/VBG the/DT right/JJ decisions/NNS because/IN of/IN the/DT threat/NN of/IN another/DT recall/NN ?
+080023	Is/VBZ there/RB a/DT severe/JJ headache/NN ?
+080024	Is/VBZ there/RB a/DT synthesis/NN mediating/VBG both/DT interpretations/NNS ?
+080025	Do/VBP you/PP know/VB everything/NN you/PP need/VBP to/TO know/VB about/IN your/PP$ general/JJ aviation/NN aircraft/NN engine/NN ?
+080026	Would/MD you/PP like/VB to/TO continue/VB watching/VBG ?
+080027	Do/VBP I/PP even/RB have/VB the/DT right/NN to/TO deprive/VB moviegoers/NNS of/IN those/DT experiences/NNS ?
+080028	Do/VBP I/PP have/VB a/DT learning/VBG disability/NN ?
+080029	Will/MD Sherlock/NP be/VB able/JJ to/TO solve/VB the/DT caper/NN ?
+080030	Should/MD I/PP put/VB it/PP on/IN Facebook/NN instead/RB ?
+080031	Could/MD you/PP please/UH get/VB me/PP a/DT Playboy/NP magazine/NN ?
+080032	Was/VBD the/DT Star/NP of/IN Bethlehem/NP a/DT conjunction/NN of/IN planets/NNS ?
+080033	Do/VBP I/PP give/VB up/RP in/IN difficulties/NNS , compromise/NN with/IN falsehood/NN , utter/JJ blasphemies/NNS ?
+080034	Will/MD I/PP be/VB able/JJ to/TO go/VB to/TO my/PP$ guru/NN ?
+080035	Does/VBZ it/PP have/VB a/DT sinkhole/NN ?
+080036	Will/MD you/PP be/VB willing/JJ to/TO do/VB whatever/WDT it/PP takes/VBZ to/TO see/VB God/NP move/NN in/IN our/PP$ midst/NN ?
+080037	Do/VBP you/PP think/VB we/PP are/VBP overreacting/VBG ?
+080038	Can/MD he/PP beat/VB the/DT Filipino/JJ superstar/NN ?
+080039	Could/MD Crystal/NP Pepsi/NP make/VB a/DT comeback/NN ?
+080040	Do/VBP I/PP have/VB medical/JJ insurance/NN while/IN the/DT lockout/NN is/VBZ enjoined/VBN ?
+080041	Does/VBZ the/DT new/JJ Fantastic/NP Four/NP live/VB up/RP to/TO its/PP$ name/NN ?
+080042	Did/VBD people/NNS confuse/VB you/PP with/IN one/NN of/IN the/DT campaign/NN volunteers/NNS as/RB opposed/VBN to/TO the/DT candidate/NN ?
+080043	Were/VBD you/PP aware/JJ that/IN steroids/NNS were/VBD being/VBG taken/VBN by/IN our/PP$ athletes/NNS ?
+080044	Does/VBZ the/DT president/NN of/IN the/DT United/NP States/NPS think/VB he/PP is/VBZ above/IN the/DT law/NN ?
+080045	Did/VBD Alexis/NP , the/DT heir/NN to/TO the/DT throne/NN , and/CC Anastasia/NP , one/NN of/IN his/PP$ sisters/NNS , survive/VB ?
+080046	Can/MD you/PP trust/VB your/PP$ grandma/NN and/CC me/PP to/TO do/VB the/DT right/JJ thing/NN by/IN you/PP ?
+080047	Could/MD Miss/NP Universe/NP be/VB next/JJ ?
+080048	Do/VBP you/PP know/VB of/IN a/DT local/JJ nonprofit/JJ that/IN we/PP should/MD be/VB highlighting/JJ ?
+080049	Did/VBD they/PP feel/VB free/JJ to/TO express/VB their/PP$ political/JJ ideas/NNS ?
+080050	Do/VBP I/PP think/VB it/PP 's/VBZ a/DT good/JJ idea/NN to/TO fingerprint/VB volunteers/NNS ?
+080051	Will/MD it/PP soon/RB be/VB off/IN the/DT screens/NNS and/CC out/RB of/IN the/DT newspapers/NNS ?
+080052	Has/VBZ part/NN of/IN the/DT dream/NN been/VBN fulfilled/VBN ?
+080053	Are/VBP you/PP optimistic/JJ at/IN all/PDT that/IN it/PP will/MD ever/RB be/VB created/VBN ?
+080054	Will/MD Conquest/NP Titan/NP follow/VB in/IN his/PP$ footsteps/NNS ?
+080055	Is/VBZ the/DT Bible/NP opposed/VBN to/TO nationhood/NN ?
+080056	Should/MD there/RB be/VB a/DT decrescendo/NN ?
+080057	Is/VBZ there/RB a/DT benefit/NN to/TO the/DT dual/JJ partition/NN methodology/NN ?
+080058	Have/VBP you/PP ever/RB tried/VBN to/TO play/VB Battlefield/NP online/RB ?
+080059	Do/VBP the/DT Europeans/NPS have/VB the/DT political/JJ will/NN to/TO deal/VB with/IN it/PP ?
+080060	Do/VBP you/PP consider/VB the/DT killing/NN of/IN women/NNS and/CC children/NNS to/TO be/VB jihad/NN ?
+080061	Was/VBD there/RB an/DT alternative/JJ way/NN to/TO get/VB a/DT vaccine/NN ?
+080062	Is/VBZ that/IN the/DT way/NN to/TO go/VB , to/TO bring/VB choice/NN and/CC competition/NN in/IN the/DT system/NN ?
+080063	Did/VBD you/PP insinuate/VB that/IN the/DT three/CD of/IN us/PP have/VBP hired/VBN these/DT people/NN ?
+080064	Do/VBP they/PP not/RB understand/VB that/IN the/DT Jews/NPS are/VBP in/IN the/DT same/JJ kind/NN of/IN struggle/NN that/IN they/PP are/VBP still/RB in/IN ?
+080065	Have/VBP they/PP gone/VBN to/TO the/DT slaughterhouse/NN ?
+080066	Do/VBP I/PP have/VB to/TO be/VB a/DT parent/NN to/TO speak/VB out/RP against/IN child/NN molestation/NN ?
+080067	Should/MD the/DT Uzbek/NP government/NN have/VB done/VBN this/DT ?
+080068	Is/VBZ there/RB a/DT plan/NN that/WDT would/MD be/VB an/DT alternative/NN to/TO Kyoto/NP under/IN development/NN within/IN the/DT administration/NN ?
+080069	Are/VBP you/PP going/VBG to/TO take/VB the/DT heart/NN of/IN your/PP$ lineup/NN out/RP ?
+080070	Is/VBZ there/RB any/DT chance/NN that/IN the/DT athletic/JJ look/NN could/MD end/VB up/RP being/VBG a/DT fad/NN ?
+080071	Could/MD the/DT same/JJ thing/NN happen/VB today/RB , in/IN spite/NN of/IN computer/NN models/NNS and/CC Doppler/NP radar/NN ?
+080072	Can/MD you/PP identify/VB them/PP from/IN my/PP$ photo/NN ?
+080073	Is/VBZ there/RB any/DT way/NN to/TO speed/VB up/RP the/DT growth/NN of/IN my/PP$ parsnips/NNS ?
+080074	Are/VBP they/PP going/VBG to/TO cooperate/VB ?
+080075	Is/VBZ this/DT also/RB a/DT part/NN of/IN the/DT same/JJ idea/NN ?
+080076	Did/VBD the/DT two/CD of/IN you/PP share/VB a/DT box/NN of/IN fudge/NN during/IN your/PP$ first/JJ beach/NN vacation/NN ?
+080077	Do/VBP you/PP have/VB questions/NNS about/IN honeybees/NNS ?
+080078	Would/MD her/PP$ husband/NN have/VB been/VBN so/RB obtuse/JJ ?
+080079	Do/VBP I/PP actually/RB hear/VB some/DT of/IN my/PP$ colleagues/NNS saying/VBG that/IN this/DT was/VBD a/DT good/JJ deal/NN ?
+080080	Is/VBZ there/RB a/DT way/NN to/TO combat/VB Afghan/JJ drugs/NNS ?
+080081	Is/VBZ Japan/NP 's/POS malaise/NN chiefly/VB a/DT monetary/JJ problem/NN ?
+080082	Is/VBZ Jake/NP Jabs/NP a/DT hypocrite/NN ?
+080083	Did/VBD this/DT bring/VB about/RP the/DT collapse/NN of/IN the/DT Icelandic/JJ economy/NN ?
+080084	Do/VBP we/PP have/VB to/TO do/VB a/DT background/NN and/CC credit/NN check/NN ?
+080085	Can/MD I/PP start/VB you/PP off/RP with/IN a/DT cocktail/NN ?
+080086	Does/VBZ this/DT place/NN have/VB a/DT hell/NN of/IN a/DT lot/NN of/IN cholesterol/NN on/IN the/DT menu/NN ?
+080087	Is/VBZ there/RB a/DT starchier/JJR genre/NN ?
+080088	Would/MD you/PP like/VB me/PP to/TO send/VB you/PP the/DT confirmation/NN email/NN ?
+080089	Has/VBZ it/PP led/VBN to/TO a/DT breakthrough/NN in/IN the/DT negotiations/NNS ?
+080090	Can/NP Randolph/NP keep/VB up/RP with/IN Green/NP on/IN the/DT perimeter/NN and/CC in/IN transition/NN ?
+080091	Do/VBP we/PP have/VB any/DT choice/NN but/CC to/TO make/VB sure/JJ Afghanistan/NP does/VBZ not/RB go/VB backwards/RB again/RB ?
+080092	Did/VBD we/PP get/VB it/PP to/TO the/DT state/NN 's/POS satisfaction/NN ?
+080093	Do/VBP I/PP sound/VB like/IN a/DT homosexual/NN ?
+080094	Shall/MD we/PP give/VB up/RP the/DT Mideast/NN and/CC the/DT oil/NN fields/NNS ?
+080095	Is/VBZ Grandpa/NP fond/JJ of/IN making/VBG his/PP$ own/JJ beer/NN ?
+080096	Will/MD it/PP soon/RB vanish/VB altogether/RB ?
+080097	Do/VBP I/PP need/VB do/VB download/NN any/DT applications/NNS ?
+080098	Am/VBP I/PP just/RB being/VBG paranoid/JJ ?
+080099	Did/VBD we/PP take/VB steps/NNS to/TO safeguard/VB our/PP$ political/JJ and/CC economic/JJ freedoms/NNS ?
+080100	Can/MD we/PP say/VB that/IN we/PP are/VBP witnessing/VBG a/DT rebirth/NN of/IN the/DT Islamic/JJ feminism/NN ?

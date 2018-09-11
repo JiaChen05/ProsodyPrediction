@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524823464 source:d:\workspace\pdprocess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

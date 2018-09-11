@@ -1,0 +1,45 @@
+WORD[0]	WORD[1]	POS[-3]	POS[-2]	POS[-1]	POS[0]	POS[1]	POS[2]	POS[3]	WLEN[-1]	WLEN[0]	WLEN[1]	WORD_NUM	SENTENCE_LENGTH	BTYPE[-1]	BTYPE[0]
+Polyurethane	NULL!	NULL!	NULL!	NULL!	NN	?			0	12	0	1	2		B2
+A	Big	NULL!	NULL!	NULL!	DT	JJ	JJ	NN	0	1	3	4	5		B2
+Big	Blue	NULL!	NULL!	DT	JJ	JJ	NN	?	1	3	4	4	5		B2
+Blue	turnaround	NULL!	DT	JJ	JJ	NN	?	NULL!	3	4	10	4	5		B2
+turnaround	NULL!	DT	JJ	JJ	NN	?	NULL!	NULL!	4	10	0	4	5		B2
+Combat	pay	NULL!	NULL!	NULL!	NN	NN	?	NN	0	6	3	2	3		B2
+pay	NULL!	NULL!	NULL!	NN	NN	?	NN	?	6	3	0	2	3		B2
+Any	idea	NULL!	NULL!	NULL!	DT	NN	?	NN	0	3	4	2	3		B2
+idea	NULL!	NULL!	NULL!	DT	NN	?	NN	?	3	4	0	2	3		B2
+The	unexpected	NULL!	NULL!	NULL!	DT	JJ	?	NN	0	3	10	2	3		B2
+unexpected	NULL!	NULL!	NULL!	DT	JJ	?	NN	?	3	10	0	2	3		B2
+Or	an	NULL!	NULL!	NULL!	CC	DT	JJ	NN	0	2	2	4	5		B2
+an	Android	NULL!	NULL!	CC	DT	JJ	NN	?	2	2	7	4	5		B2
+Android	watch	NULL!	CC	DT	JJ	NN	?	NULL!	2	7	5	4	5		B2
+watch	NULL!	CC	DT	JJ	NN	?	NULL!	NULL!	7	5	0	4	5		B2
+Install	a	NULL!	NULL!	NULL!	VBP	DT	JJ	NN	0	7	1	4	5		B2
+a	new	NULL!	NULL!	VBP	DT	JJ	NN	?	7	1	3	4	5		B2
+new	program	NULL!	VBP	DT	JJ	NN	?	NULL!	1	3	7	4	5		B2
+program	NULL!	VBP	DT	JJ	NN	?	NULL!	NULL!	3	7	0	4	5		B2
+Want	a	NULL!	NULL!	NULL!	VBP	DT	NN	?	0	4	1	3	4		B2
+a	keyboard	NULL!	NULL!	VBP	DT	NN	?	?	4	1	8	3	4		B2
+keyboard	NULL!	NULL!	VBP	DT	NN	?	NULL!	NULL!	1	8	0	3	4		B2
+Sophisticated	casual	NULL!	NULL!	NULL!	JJ	JJ	?	?	0	13	6	2	3		B2
+casual	NULL!	NULL!	NULL!	JJ	JJ	?	?	?	13	6	0	2	3		B2
+Superb	delivery	NULL!	NULL!	NULL!	NP	NN	?	?	0	6	8	2	3		B2
+delivery	NULL!	NULL!	NULL!	NP	NN	?	?	?	6	8	0	2	3		B2
+What	is	NULL!	NULL!	NULL!	WP	VBZ	DT	NN	0	4	2	4	5		B2
+is	the	NULL!	NULL!	WP	VBZ	DT	NN	?	4	2	3	4	5		B2
+the	alternative	NULL!	WP	VBZ	DT	NN	?	NULL!	2	3	11	4	5	B2	B2
+alternative	NULL!	WP	VBZ	DT	NN	?	NULL!	NULL!	3	11	0	4	5	B2	B2
+Going	out	NULL!	NULL!	NULL!	VBG	RP	RP	NN	0	5	3	4	5	B2	B2
+out	of	NULL!	NULL!	VBG	RP	RP	NN	?	5	3	2	4	5	B2	B2
+of	business	NULL!	VBG	RP	RP	NN	?	NULL!	3	2	8	4	5	B2	B2
+business	NULL!	VBG	RP	RP	NN	?	NULL!	NULL!	2	8	0	4	5	B2	B2
+Think	I	NULL!	NULL!	NULL!	VBP	PP	VBP	JJ	0	5	1	4	5	B2	B2
+I	'm	NULL!	NULL!	VBP	PP	VBP	JJ	?	5	1	2	4	5	B2	B2
+'m	exaggerating	NULL!	VBP	PP	VBP	JJ	?	NULL!	1	2	12	4	5	B2	B2
+exaggerating	NULL!	VBP	PP	VBP	JJ	?	NULL!	NULL!	2	12	0	4	5	B2	B2
+Was	Alhambra	NULL!	NULL!	NULL!	VBD	NP	DT	NN	0	3	8	4	5	B2	B2
+Alhambra	a	NULL!	NULL!	VBD	NP	DT	NN	?	3	8	1	4	5	B2	B2
+a	motif	NULL!	VBD	NP	DT	NN	?	NULL!	8	1	5	4	5	B2	B2
+motif	NULL!	VBD	NP	DT	NN	?	NULL!	NULL!	1	5	0	4	5	B2	B2
+Other	considerations	NULL!	NULL!	NULL!	JJ	NNS	?	NN	0	5	14	2	3	B2	B2
+considerations	NULL!	NULL!	NULL!	JJ	NNS	?	NN	?	5	14	0	2	3	B2	B2

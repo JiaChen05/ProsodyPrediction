@@ -1,0 +1,100 @@
+﻿082001	Is/VBZ American/JJ football/NN more/RBR popular/JJ or/CC less/JJR than/IN baseball/NN ?
+082002	Was/VBD I/PP going/VBG to/TO raise/VB my/PP$ hand/NN in/IN a/DT Connecticut/NP courthouse/NN or/CC mouth/VB the/DT pledge/NN of/IN allegiance/NN for/IN this/DT ?
+082003	Does/VBZ anyone/PP really/RB believe/VBP or/CC doubt/VBP that/IN Gibson/NP is/VBZ likely/JJ to/TO yield/VB to/TO threats/NNS from/IN Jewish/JJ organizations/NNS ?
+082004	Is/VBZ the/DT payoff/NN for/IN Clinch/NP River/NP worth/NN more/JJR or/CC less/JJR than/IN all/DT other/JJ alternative/JJ energy/NN sources/NNS combined/VBN ?
+082005	Can/MD they/PP bring/VB in/RP enough/JJ revenue/NN or/CC not/RB to/TO pay/VB for/IN their/PP$ maintenance/NN ?
+082006	Do/VBP you/PP have/VB a/DT great/JJ workshop/NN or/CC just/RB rent/VB a/DT place/NN ?
+082007	Could/MD you/PP comment/VB on/IN the/DT possibility/NN of/IN a/DT division/NN of/IN Macedonia/NP , or/CC its/PP$ transformation/NN into/IN an/DT internal/JJ protectorate/NN ?
+082008	Am/VBP I/PP married/JJ to/TO a/DT man/NN of/IN principle/NN or/CC a/DT cuckoo/NN bird/NN ?
+082009	Should/NP pornography/NN , hard/JJ rock/NN music/NN , movies/NNS and/CC videos/NNS continue/VBP to/TO receive/VB first/JJ amendment/NN protection/NN or/CC not/RB ?
+082010	Do/VBP Americans/NPS know/VB enough/RB or/CC not/RB about/IN the/DT rest/NN of/IN the/DT world/NN to/TO successfully/RB run/VB a/DT modern/JJ day/NN empire/NN ?
+082011	Can't/MD you/PP wait/VB four/CD weeks/NNS for/IN us/PP to/TO feed/VB millions/NNS of/IN innocent/JJ people/NNS or/CC the/DT guilty/JJ at/IN risk/NN of/IN starvation/NN ?
+082012	Can/NP Gorbachev/NP really/RB allow/VB Lithuania/NP to/TO go/VB its/PP$ own/JJ way/NN or/CC not/RB ?
+082013	Is/VBZ the/DT outbreak/NN or/CC not/RB of/IN personal/JJ breakdowns/NNS part/NN of/IN the/DT normal/JJ course/NN of/IN events/NNS ?
+082014	Do/VBP you/PP think/VB you/PP could/MD make/VB it/PP work/VB with/IN your/PP$ schedule/NN or/CC not/RB ?
+082015	Should/MD this/DT incident/NN be/VB investigated/VBN as/IN a/DT higher/JJR or/CC lower/JJR priority/NN for/IN the/DT military/NN because/IN of/IN the/DT involvement/NN of/IN journalists/NNS ?
+082016	Is/VBZ it/PP a/DT funny/JJ story/NN to/TO go/VB down/RP in/IN the/DT family/NN scrapbook/NN , or/CC is/VBZ it/PP just/RB simple/JJ and/CC sweet/JJ ?
+082017	Do/VBP they/PP know/VBP the/DT culture/NN background/NN and/CC the/DT black/JJ history/NN of/IN the/DT affiliates/NNS of/IN the/DT Islamic/JJ group/NN or/CC not/RB ?
+082018	Can/MD you/PP stick/VB to/TO something/NN in/IN a/DT living/NN tissue/NN or/CC have/VB it/PP work/VB over/IN a/DT lifetime/NN ?
+082019	Can/MD I/PP borrow/VB your/PP$ lawnmower/NN or/CC buy/VB it/PP ?
+082020	Is/VBZ there/RB enough/JJ money/NN or/CC not/RB for/IN you/PP to/TO have/VB a/DT certain/JJ diagnostic/JJ test/NN done/VBN ?
+082021	Will/MD Europeans/NPS risk/VB their/PP$ lives/NNS or/CC fortunes/NNS in/IN the/DT battle/NN against/IN terrorism/NN ?
+082022	Are/VBP we/PP willing/JJ to/TO sacrifice/VB the/DT education/NN of/IN some/DT students/NNS in/IN order/NN to/TO achieve/VB the/DT heterogeneous/JJ goal/NN or/CC not/RB ?
+082023	Is/VBZ there/RB a/DT disruptive/JJ new/JJ idea/NN you/PP have/VBP to/TO transform/VB your/PP$ career/NN or/CC business/NN ?
+082024	Did/VBD you/PP draw/VB heavily/RB or/CC exactly/RB from/IN your/PP$ own/JJ experiences/NNS , especially/RB following/VBG the/DT fatwa/NN , to/TO inform/VB the/DT novel/NN ?
+082025	Is/VBZ the/DT wireless/NN network/NN name/NN or/CC its/PP$  function/NN one/NN such/JJ peculiarity/NN ?
+082026	Is/VBZ the/DT community/NN invited/VBN to/TO your/PP$ business/NN for/IN a/DT Super/NP Bowl/NP barbecue/NN or/CC party/NN ?
+082027	Did/VBD you/PP follow/VB the/DT music/NN into/IN the/DT saloon/NN or/CC the/DT band/NN for/IN an/DT afternoon/NN drink/NN and/CC a/DT hand/NN at/IN cards/NNS ?
+082028	Do/VBP local/JJ cities/NNS or/CC municipalities/NNS have/VB plans/NNS in/IN place/NN to/TO deal/VB with/IN the/DT aftermath/NN of/IN a/DT severe/JJ storm/NN ?
+082029	Are/VBP they/PP horizontal/JJ , vertical/JJ , diagonal/JJ , or/CC curved/VBD ?
+082030	Was/VBD it/PP enough/JJ to/TO create/VB an/DT exchange/NN and/CC offer/NN subsidies/NNS , or/CC did/VBD he/PP need/VB to/TO require/VB people/NNS to/TO buy/VB insurance/NN ?
+082031	Can/MD the/DT bacteria/NNS persist/VBP in/IN the/DT body/NN , causing/VBG harm/NN and/CC illness/NN months/NNS or/CC even/RB years/NNS after/IN treatment/NN has/VBZ ended/VBG ?
+082032	Would/MD that/DT white/JJ streetcar/NN conductor/NN show/VB up/RP or/CC think/VB that/IN I/PP was/VBD trying/VBG something/NN untoward/RB ?
+082033	Do/VBP you/PP find/VB there/EX is/VBZ no/DT time/NN for/IN relaxation/NN or/CC recreation/NN ?
+082034	Are/VBP we/PP going/VBG to/TO see/VB a/DT turnaround/NN or/CC are/VBP we/PP ready/JJ for/IN it/PP ?
+082035	Can/MD a/DT rise/NN in/IN unemployment/NN or/CC a/DT recession/NN be/VB far/RB beyond/IN the/DT horizon/NN ?
+082036	Can/MD you/PP identify/VB with/IN the/DT frustration/NN of/IN a/DT man/NN or/CC not/RB being/VBG stopped/VBN by/IN police/NNS because/IN of/IN his/PP$ skin/NN color/NN ?
+082037	Will/MD the/DT neighborhood/NN like/IN the/DT food/NN or/CC not/RB ?
+082038	Does/VBZ it/PP signify/VB the/DT finality/NN of/IN God/NP 's/POS victory/NN or/CC wipe/VB it/PP off/RP over/IN death/NN and/CC the/DT devil/NN ?
+082039	Could/MD climate/NN sensitivity/NN be/VB lower/JJR or/CC higher/JJR than/IN the/DT vast/JJ majority/NN of/IN climate/NN scientists/NNS have/VB theorized/VBN ?
+082040	Do/VBP you/PP have/VB to/TO maintain/VB an/DT account/NN or/CC close/VB it/PP at/IN a/DT certain/JJ correspondent/NN bank/NN ?
+082041	Do/VBP the/DT freedom/NN fighters/NNS have/VBP the/DT support/NN or/CC the/DT money/NN of/IN the/DT Nicaraguan/JJ people/NNS ?
+082042	Are/VBP European/JJ authorities/NNS doing/VBG enough/RB to/TO tackle/VB the/DT problem/NN , or/CC they/PP did/VBD very/RB bad/RB ?
+082043	Was/VBD I/PP right/JJ or/CC wrong/JJ to/TO participate/VB ?
+082044	Do/VBP you/PP want/VBP to/TO play/VB horseshoes/NNS or/CC hide/VB and/CC seek/VB ?
+082045	Are/VBP they/PP really/RB champions/NNS , or/CC have/VBP they/PP actually/RB run/VB out/RP of/IN success/NN , and/CC seek/VBP victory/NN by/IN association/NN ?
+082046	Did/VBD you/PP know/VB research/NN suggests/VBZ that/IN happy/JJ people/NNS live/VBP longer/RBR , healthier/RBR and/CC more/RBR fulfilling/VBG lives/NNS or/CC not/RB ?
+082047	Are/VBP our/PP$ children/NNS and/CC grandchildren/NNS going/VBG to/TO be/VB picking/VBG up/RP or/CC fall/VB behind/IN the/DT tab/NN for/IN our/PP$ foolish/JJ decisions/NNS ?
+082048	Should/NP George/NP Davis/NP function/NN as/IN the/DT narrator/NN or/CC the/DT leader/NN ?
+082049	Did/VBD the/DT Montreal/NP Protocol/NP or/CC the/DT backup/JJ method/NN work/VBP ?
+082050	Does/VBZ it/PP use/VB excessive/JJ energy/NN in/IN extraction/NN , processing/NN , manufacturing/NN , or/CC transportation/NN ?
+082051	Is/VBZ it/PP acceptable/JJ or/CC unacceptable/JJ for/IN his/PP$ mother/NN to/TO serve/VB as/IN a/DT den/NN leader/NN for/IN his/PP$ Cub/NP Scout/NP den/NN ?
+082052	Can/MD something/NN as/RB complicated/JJ as/RB love/VB really/RB be/VB enhanced/VBN , or/CC as/IN the/DT research/NN suggests/VBZ , through/IN these/DT hormones/NNS ?
+082053	Do/VBP you/PP think/VB any/DT other/JJ furniture/NN category/NN or/CC subcategory/NN could/MD get/VB that/DT reaction/NN ?
+082054	Will/MD we/PP be/VB an/DT active/JJ or/CC passive/JJ participant/NN in/IN this/DT evolution/NN of/IN our/PP$ business/NN ?
+082055	Is/VBZ it/PP just/JJ me/PP or/CC did/VBD Thanksgiving/NP come/VB and/CC go/VB in/IN the/DT blink/NN of/IN an/DT eye/NN ?
+082056	Is/VBZ the/DT Moreno/NP Valley/NP corruption/NN probe/NN over/RB or/CC not/RB ?
+082057	Is/VBZ the/DT central/JJ objective/NN of/IN the/DT indigenous/JJ movement/NN to/TO participate/VB in/IN the/DT democratic/JJ system/NN or/CC to/TO change/VB it/PP ?
+082058	Is/VBZ the/DT world/NN about/RB to/TO run/VB short/JJ of/IN oil/NN or/CC save/VB it/NN ?
+082059	Would/MD it/PP make/VB more/JJR sense/NN to/TO help/VB people/NNS give/VB up/RP nicotine/NN an/DT addictive/JJ or/CC put/VB substance/NN altogether/RB ?
+082060	Can/NP Sharon/NP and/CC Abbas/NP resolve/VB the/DT conflict/NN alone/RB , or/CC is/VBZ a/DT third/JJ party/NN playing/VBG an/DT essential/JJ part/NN of/IN the/DT equation/NN ?
+082061	Do/VBP you/PP like/VB to/TO play/VB team/NN sports/NNS , or/CC are/VBP you/PP more/JJR of/IN a/DT solo/JJ athlete/NN ?
+082062	Is/VBZ it/PP a/DT trend/NN for/IN the/DT Twins/NP , or/CC a/DT mirage/NN ?
+082063	Would/MD it/PP instead/RB only/RB recognize/VB or/CC not/RB other/JJ faithful/JJ Anglican/JJ churches/NNS around/RB in/IN the/DT world/NN ?
+082064	Is/VBZ it/PP worth/JJ it/PP to/TO take/VB the/DT chance/NN that/IN the/DT wildlife/NN experts/NNS are/VBP right/JJ or/CC wrong/JJ ?
+082065	Would/MD he/PP understand/VB , or/CC be/VB able/JJ to/TO articulate/VB both/CC the/DT need/NN for/IN remembrance/NN and/CC the/DT requirement/NN for/IN reconciliation/NN ?
+082066	Are/VBP the/DT Europeans/NPS looking/VBG for/IN compromise/NN in/IN the/DT wrong/JJ place/NN or/CC not/RB ?
+082067	Is/VBZ Baghdad/NP going/VBG to/TO make/VB a/DT show/NN of/IN cooperation/NN , or/CC will/MD it/PP make/VB a/DT show/NN of/IN defiance/NN ?
+082068	Does/VBZ Fido/NP have/VB a/DT favorite/JJ Downtown/NP boutique/NN or/CC treasure/NN he/PP likes/VBZ to/TO visit/VB ?
+082069	Will/MD it/PP be/VB a/DT part/NN of/IN Serbia/NP and/CC the/DT Yugoslav/JJ federation/NN , or/CC will/MD it/PP emerge/VB as/IN an/DT independent/JJ nation/NN ?
+082070	Are/VBP you/PP starting/VBG to/TO get/VB a/DT little/RB bored/JJ or/CC tired/JJ but/CC still/RB have/VBP an/DT ice/NN box/NN full/JJ of/IN leftovers/NNS ?
+082071	Do/VBP we/PP want/VBP to/TO keep/VB playing/NN or/CC go/VB ahead/RB and/CC get/VB ready/JJ for/IN spring/NN vacation/NN ?
+082072	Should/NP Corona/NP elect/VB its/PP$ city/NN council/NN or/CC not/RB by/IN district/NN ?
+082073	Is/VBZ America/NP ready/JJ for/IN paying/VBG for/RB radio/NN or/CC video/NN clips/NNS ?
+082074	Is/VBZ it/PP going/VBG to/TO be/VB the/DT neighborhood/NN gangs/NNS or/CC the/DT crime/NN ?
+082075	Does/VBZ the/DT Ayatollah/NP Khomeini/NP eat/VB swordfish/NNS or/CC tuna/NN ?
+082076	Are/VBP there/RB more/RBR or/CC less/RBR unemployed/JJ ?
+082077	Is/VBZ it/PP any/DT surprise/NN that/IN the/DT folks/NNS at/IN Samsung/NP or/CC local/JJ are/VBP now/RB making/VBG an/DT Android/JJ refrigerator/NN ?
+082078	Can/MD you/PP make/VB it/PP a/DT little/RB more/RBR realistic/JJ or/CC fantistic/JJ ?
+082079	Will/MD the/DT mainstream/JJ bipartisan/JJ majority/NN in/IN Virginia/NP be/VB drowned/VBN out/RP or/CC not/RB by/IN the/DT tea/NN party/NN ?
+082080	Did/VBD you/PP get/VB away/RP for/IN vacation/NN travel/NN or/CC stay/VB there/RB during/IN the/DT summer/NN ?
+082081	Does/VBZ Anderson/NP stay/VB loyal/JJ or/CC go/VB abroad/RB to/TO that/DT vision/NN for/IN two/CD and/CC a/DT half/JJ hours/NNS ?
+082082	Do/VBP you/PP have/VB the/DT patience/NN to/TO live/VB in/IN a/DT work/NN zone/NN or/CC forest/NN for/IN an/DT extended/JJ period/NN of/IN time/NN ?
+082083	Is/VBZ it/PP a/DT pressure/NN that/WDT was/VBD brought/VBN by/IN the/DT school/NN superintendent/NN , brought/VBN by/IN the/DT state/NN , or/CC internal/NN ?
+082084	Is/VBZ America/NP as/IN respected/VBN throughout/IN the/DT world/NN as/IN it/PP was/VBD or/CC not/RB ?
+082085	Do/VBP organisms/NNS have/VB the/DT ability/NN to/TO adapt/VB to/TO climate/NN change/NN or/CC ozone/NN decline/NN on/IN a/DT timescale/NN of/IN decades/NNS ?
+082086	Will/NP stock/NN , for/IN instance/NN , be/VB transferred/VBN from/IN one/CD generation/NN to/TO the/DT next/JJ by/IN gift/NN or/CC sale/NN ?
+082087	Is/VBZ the/DT neighborhood/NN around/IN campus/NN the/DT problem/NN or/CC not/RB ?
+082088	Are/VBP you/PP prepared/VBN to/TO take/VB responsibility/NN or/CC not/RB for/IN maintaining/VBG a/DT home/NN ?
+082089	Will/MD a/DT robot/NN be/VB cognizant/JJ of/IN itself/PP or/CC its/PP$ own/JJ history/NN ?
+082090	Could/MD we/PP do/VB a/DT better/JJR job/NN protecting/VBG ourselves/PP and/CC our/PP$ future/NN than/IN a/DT Washington/NP or/CC Sacramento/NP bureaucrat/NN ?
+082091	Are/VBP America/NP 's/POS children/NNS being/VBG sexually/RB exploited/VBN for/IN commercial/JJ gain/NN in/IN far/RB greater/JJR numbers/NNS than/IN ever/RB before/RB estimated/VBN or/CC not/RB ?
+082092	Is/VBZ Old/NP Europe/NP on/IN the/DT threshold/NN of/IN a/DT major/JJ change/NN or/CC just/RB a/DT burst/NN ?
+082093	Will/MD Washington/NP continue/VB to/TO support/VB the/DT process/NN or/CC the/DT result/NN of/IN European/JJ integration/NN ?
+082094	Do/VBP I/PP have/VBP any/DT recourse/NN against/IN the/DT home/NN inspector/NN or/CC we/PP have/VBP nothing/NN to/TO do/RB ?
+082095	Was/VBD Abraham/NP Lincoln/NP a/DT liberal/NN or/CC a/DT conservative/NN ?
+082096	Did/VBD they/PP disappear/VB or/CC show/VB up/RP in/IN the/DT normal/JJ course/NN of/IN bureaucracy/NN ?
+082097	Was/VBD it/PP murder/NN or/CC malpractice/NN ?
+082098	Would/MD he/PP like/VB her/PP to/TO wear/VB a/DT white/JJ dress/NN or/CC red/JJ one/CD for/IN the/DT audition/NN ?
+082099	Could/MD anything/RB be/VB more/RBR draconian/JJ or/CC dramatic/JJ ?
+082100	Is/VBZ the/DT number/NN small/JJ enough/RB to/TO permit/VB individualized/VBN instruction/NN or/CC assistance/NN ?
